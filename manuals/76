@@ -4,6 +4,7 @@ Documents for the PWB/UNIX Time-Sharing System, B.3
 v7 UPM:4
 Plexus Sys3 UPM vol 2A, section 5
 Documents for UNIX 4.0, vol1, B.2.1
+4.3BSD USD:12 /usr/doc/usd/12.edtut/
 4.4BSD USD:9 /usr/share/doc/usd/09.edtut/
 
 Advanced Editing on UNIX
@@ -11,4 +12,5 @@ Documents for the PWB/UNIX Time-Sharing System, B.4
 v7 UPM:5
 Plexus Sys3 UPM vol 2A, section 5
 Documents for UNIX 4.0, vol1, B.2.2
+4.3BSD USD:13 /usr/doc/usd/13.edadv/
 4.4BSD USD:10 /usr/share/doc/usd/10.edadv/
